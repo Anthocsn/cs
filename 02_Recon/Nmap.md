@@ -11,5 +11,5 @@
 
 ## Autres options
 
-* -p : Permet de choisir une plage ou une liste de port spécifique à scanner (1-65535 or 80,443).
+* -p : Permet de choisir une plage ou une liste de port spécifique à scanner (1-65535 ou 80,443).
 * -oN fichier.txt : Pour exporter les résultats dans un fichier texte dans un format normal.
